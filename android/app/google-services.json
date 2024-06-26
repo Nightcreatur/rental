@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46823557661",
+    "project_id": "rentalcar-afb2b",
+    "storage_bucket": "rentalcar-afb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46823557661:android:2ab7790feaefca43bf94f4",
+        "android_client_info": {
+          "package_name": "com.rental.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPo3oB5tvBZlq0KC3LSj6OzmMMhs8Jpuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
